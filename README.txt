@@ -29,3 +29,5 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+		http://127.0.0.1:5500/index.html
